@@ -40,11 +40,11 @@ pyyaml==6.0.2
     # via
     #   -r requirements.in
     #   omegaconf
-requests==2.33.1
+requests==2.34.2
     # via -r requirements.in
 typing-extensions==4.15.0
     # via cryptography
-urllib3==2.6.3
+urllib3==2.7.0
     # via
     #   -r requirements.in
     #   requests
